@@ -1,0 +1,22 @@
+# Binarios compilados de C++
+Proyecto_CPP/*.o
+Proyecto_CPP/*.exe
+Proyecto_CPP/CalculadoraEdad
+Proyecto_CPP/*.out
+
+# Cache de Python
+__pycache__/
+*.pyc
+Proyecto_Python/__pycache__/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de editores/IDEs
+.vscode/
+*.swp
+
+# Archivos temporales
+*.log
+*.tmp
