@@ -40,7 +40,7 @@ int main() {
     // Reemplacen "Estudiante" por su nombre y apellido reales en la salida.
     // ====================================================================
     cout << "=====================================================" << endl;
-    cout << "  CALCULADORA DE EDAD DE: Lucas Del Pino     " << endl;
+    cout << "  CALCULADORA DE EDAD DE: Federico Mattia     " << endl;
     cout << "=====================================================" << endl;
 
     cout << "Ingrese Dia, Mes y Anio de nacimiento (separados por espacios): ";
